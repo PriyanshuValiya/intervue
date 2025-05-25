@@ -12,6 +12,9 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div>
+
+
+      
       <header className="border-b border-gray-200 px-9">
         <div className="container mx-auto px-4 py-6 flex justify-between items-center">
           <img
